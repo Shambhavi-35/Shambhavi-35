@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: Java, Kotlin, C, DSA 
+- 💻 Languages: Java, Kotlin, C, DSA
 - 📱 Android: XML, Firebase
 - 🛢️ Database: MySQL, Firebase
 - 🔧 Tools: Git, GitHub, Android Studio
