@@ -22,30 +22,6 @@ Computer Science student focused on Android development and real-world applicati
 
 ---
 
-## 💼 Projects
-
-### 🔗 Blockchain Supply Chain System  
-👉 https://github.com/Shambhavi-35/blockchain-supply-chain  
-- Developed a blockchain-based supply chain solution for transparency  
-- Ensures secure and immutable transaction tracking  
-- Improves trust and traceability in logistics systems  
-
----
-
-### 🎮 Tic Tac Toe Game  
-👉 https://github.com/Shambhavi-35/Tic-Tac-Toe  
-- Built an interactive game with game logic and UI  
-- Handles win conditions and user interactions  
-
----
-
-### 🧠 Brain Trainer App  
-👉 https://github.com/Shambhavi-35/braintrainer  
-- Designed a quiz-based Android app  
-- Implemented timer-based questions and scoring system  
-
----
-
 ## 🎓 Certifications
 - 🏅 [Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c13015d70b632cc9f45ffc_1774274733348_completion_certificate.pdf)  
 - 🏅 (https://unstop.com/certificate-preview/6dcdb24a-71be-458e-a680-8d933dddd788)  
