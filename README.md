@@ -67,11 +67,6 @@ Computer Science student focused on Android development and real-world applicati
 
 ---
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=Shambhavi-35&theme=radical&no-frame=true&row=1)
-
----
-
 ## 📫 Contact
 - 🔗 LinkedIn: https://www.linkedin.com/in/shambhavi-shiragond  
 - 📧 Email: shambhavishiragond223@gmail.com 
