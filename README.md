@@ -1,36 +1,33 @@
-<h1 align="center">Hi 👋 I'm Shambhavi</h1>
+## Hi there 👋 I'm Shambhavi
+
+🎓 Computer Science Student  
+💻 Passionate about Android Development & Java  
+🚀 Building real-world apps and learning new tech  
 
 ---
 
-## 👩‍💼 Summary
-Computer Science student focused on Android development and real-world application building. Strong interest in backend systems and blockchain technology.
+### 👩‍💻 About Me
+- 🔭 I’m currently working on Android projects
+- 🌱 I’m currently learning Kotlin & Firebase
+- 🤝 I’m looking to collaborate on Android apps
+- 💬 Ask me about Java, Android, Firebase
+- 📫 How to reach me: shambhavishiragond223@gmail.com
+- ⚡ Fun fact: I love turning ideas into apps!
 
 ---
 
-## 🛠️ Skills
-**Languages:** Java, Kotlin, C, HTML, CSS, Javascript, php, Node.js, DSA  
-**Mobile:** Android (XML, Firebase)  
-**Backend/Concepts:** APIs, Firebase Realtime DB, Blockchain Basics  
-**Tools:** Git, GitHub, Android Studio  
-    
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shambhavi-35&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi-35&layout=compact&theme=radical)
+### 🛠️ Tech Stack
+- 💻 Languages: Java, Kotlin, C, DSA 
+- 📱 Android: XML, Firebase
+- 🛢️ Database: MySQL, Firebase
+- 🔧 Tools: Git, GitHub, Android Studio
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shambhavi-35&theme=radical)
+### 📊 GitHub Stats
+![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shambhavi-35&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Contact
-- 🔗 LinkedIn: https://www.linkedin.com/in/shambhavi-shiragond  
-- 📧 Email: shambhavishiragond223@gmail.com 
-
----
-
-⭐ *Focused on building impactful Android applications*
+### 🔗 Connect with me
+- LinkedIn: www.linkedin.com/in/shambhavi-shiragond
