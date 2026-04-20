@@ -1,11 +1,4 @@
-<h1 align="center">Shambhavi</h1>
-<p align="center">
-🚀 Android Developer | Java | Kotlin | Firebase  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Building+Real+World+Apps;Java+%7C+Kotlin+%7C+Firebase;Always+Learning&center=true&width=500&height=45">
-</p>
+<h1 align="center">Hi 👋 I'm Shambhavi</h1>
 
 ---
 
