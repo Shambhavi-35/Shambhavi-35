@@ -15,7 +15,7 @@ Computer Science student focused on Android development and real-world applicati
 ---
 
 ## 🛠️ Skills
-**Languages:** Java, Kotlin, C  
+**Languages:** Java, Kotlin, C, HTML, CSS, Javascript, php, Node.js, DSA  
 **Mobile:** Android (XML, Firebase)  
 **Backend/Concepts:** APIs, Firebase Realtime DB, Blockchain Basics  
 **Tools:** Git, GitHub, Android Studio  
