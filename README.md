@@ -19,16 +19,7 @@ Computer Science student focused on Android development and real-world applicati
 **Mobile:** Android (XML, Firebase)  
 **Backend/Concepts:** APIs, Firebase Realtime DB, Blockchain Basics  
 **Tools:** Git, GitHub, Android Studio  
-
----
-
-## 🎓 Certifications
-- 🏅 [Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c13015d70b632cc9f45ffc_1774274733348_completion_certificate.pdf)  
-- 🏅 (https://unstop.com/certificate-preview/6dcdb24a-71be-458e-a680-8d933dddd788)  
-- 🏅 https://unstop.com/certificate-preview/336233bf-07fc-4e33-9947-7ba241ba8e58?utm_campaign=site-emails
-- 🏅 https://unstop.com/certificate-preview/d2632569-d73f-4676-8f86-0e51d23b5133
--   
-
+    
 ---
 
 ## 📊 GitHub Stats
