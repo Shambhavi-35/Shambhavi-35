@@ -24,10 +24,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shambhavi-35&show_icons=true&theme=radical)
-
----
-
 ### 🔗 Connect with me
 - LinkedIn: www.linkedin.com/in/shambhavi-shiragond
